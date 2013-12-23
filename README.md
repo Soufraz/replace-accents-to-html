@@ -1,5 +1,5 @@
 <h3>Welcome!<h3>
-<p>A script that can help you when a project without any justification some pages with accent work and others do not arise. The script replaces all accents his representative in html.</p>
+<p>A script that can help you when a project without any justification some pages with accent work and others do not arise. The script replaces all accents his representative in html in files PHP.</p>
 
 <h3>How to use</h3>
 <p>Copy the file findReplace.sh to your root project, and run! *Before, make a backup. ;)
